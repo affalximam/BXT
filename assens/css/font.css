@@ -1,0 +1,89 @@
+@font-face {
+  font-family: "daniel";
+  src: url('../font/daniel.ttf');
+  src: url('../font/daniel.eot?#iefix') format('embedded-opentype'),
+  url('../font/daniel.woff') format('woff'),
+  url('../font/daniel.ttf') format('truetype'),
+  url('../font/daniel.svg') format('svg');
+}
+
+@font-face {
+  font-family: "danielbd";
+  src: url('../font/danielbd.ttf');
+  src: url('../font/danielbd.eot?#iefix') format('embedded-opentype'),
+  url('../font/danielbd.woff') format('woff'),
+  url('../font/danielbd.ttf') format('truetype'),
+  url('../font/danielbd.svg') format('svg');
+}
+
+@font-face {
+  font-family: "danielbk";
+  src: url('../font/danielbk.ttf');
+  src: url('../font/danielbk.eot?#iefix') format('embedded-opentype'),
+  url('../font/danielbk.woff') format('woff'),
+  url('../font/danielbk.ttf') format('truetype'),
+  url('../font/danielbk.svg') format('svg');
+}
+
+@font-face {
+  font-family: "MateSC-Regular";
+  src: url('../font/MateSC-Regular.ttf');
+  src: url('../font/MateSC-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../font/MateSC-Regular.woff') format('woff'),
+  url('../font/MateSC-Regular.ttf') format('truetype'),
+  url('../font/MateSC-Regular.svg') format('svg');
+}
+
+@font-face {
+  font-family: "OdibeeSans-Regular";
+  src: url('../font/OdibeeSans-Regular.ttf');
+  src: url('../font/OdibeeSans-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../font/OdibeeSans-Regular.woff') format('woff'),
+  url('../font/OdibeeSans-Regular.ttf') format('truetype'),
+  url('../font/OdibeeSans-Regular.svg') format('svg');
+}
+
+@font-face {
+  font-family: "BalooTammudu2-Bold";
+  src: url('../font/BalooTammudu2-Bold.ttf');
+  src: url('../font/BalooTammudu2-Bold.eot?#iefix') format('embedded-opentype'),
+  url('../font/BalooTammudu2-Bold.woff') format('woff'),
+  url('../font/BalooTammudu2-Bold.ttf') format('truetype'),
+  url('../font/BalooTammudu2-Bold.svg') format('svg');
+}
+
+@font-face {
+  font-family: "BalooTammudu2-ExtraBold";
+  src: url('../font/BalooTammudu2-ExtraBold.ttf');
+  src: url('../font/BalooTammudu2-ExtraBold.eot?#iefix') format('embedded-opentype'),
+  url('../font/BalooTammudu2-ExtraBold.woff') format('woff'),
+  url('../font/BalooTammudu2-ExtraBold.ttf') format('truetype'),
+  url('../font/BalooTammudu2-ExtraBold.svg') format('svg');
+}
+
+@font-face {
+  font-family: "BalooTammudu2-Medium";
+  src: url('../font/BalooTammudu2-Medium.ttf');
+  src: url('../font/BalooTammudu2-Medium.eot?#iefix') format('embedded-opentype'),
+  url('../font/BalooTammudu2-Medium.woff') format('woff'),
+  url('../font/BalooTammudu2-Medium.ttf') format('truetype'),
+  url('../font/BalooTammudu2-Medium.svg') format('svg');
+}
+
+@font-face {
+  font-family: "BalooTammudu2-Regular";
+  src: url('../font/BalooTammudu2-Regular.ttf');
+  src: url('../font/BalooTammudu2-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../font/BalooTammudu2-Regular.woff') format('woff'),
+  url('../font/BalooTammudu2-Regular.ttf') format('truetype'),
+  url('../font/BalooTammudu2-Regular.svg') format('svg');
+}
+
+@font-face {
+  font-family: "BalooTammudu2-Bold";
+  src: url('../font/BalooTammudu2-SemiBold.ttf');
+  src: url('../font/BalooTammudu2-SemiBold.eot?#iefix') format('embedded-opentype'),
+  url('../font/BalooTammudu2-SemiBold.woff') format('woff'),
+  url('../font/BalooTammudu2-SemiBold.ttf') format('truetype'),
+  url('../font/BalooTammudu2-SemiBold.svg') format('svg');
+}

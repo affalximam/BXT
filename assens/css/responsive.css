@@ -1,0 +1,129 @@
+
+@media screen and (max-width: 576px) {
+  .navbar-custom a.desktop {
+    display: none;
+  }
+  .team .card {
+    width: 90%;
+  }
+  .wtj a.btn {
+    width: 200px;
+  }
+  .contact form {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .navbar-custom a.handphone {
+    display: none;
+  }
+  .jumbotron hr {
+    width: 75%;
+  }
+  .team .card {
+    width: 90%;
+  }
+  .wtj a.btn {
+    width: 200px;
+  }
+  .contact form {
+    width: 80%;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .navbar-custom a.handphone {
+    display: none;
+  }
+  .jumbotron hr {
+    width: 45%;
+  }
+  .team .card {
+    width: 80%;
+  }
+  .wtj a.btn {
+    width: 175px;
+  }
+  .contact form {
+    width: 80%;
+  }
+  .navbar-custom .navbar-nav {
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav > li > a {
+    background-color: transparent;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .navbar-custom a.handphone {
+    display: none;
+  }
+  .jumbotron hr {
+    width: 50%;
+  }
+  .team .card {
+    width: 80%;
+  }
+  .wtj a.btn {
+    width: 175px;
+  }
+  .contact form {
+    width: 80%;
+  }
+  .navbar-custom .navbar-nav {
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav > li > a {
+    background-color: transparent;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .navbar-custom a.handphone {
+    display: none;
+  }
+  .jumbotron hr {
+    width: 75%;
+  }
+  .team .card {
+    width: 80%;
+  }
+  .wtj a.btn {
+    width: 175px;
+  }
+  .contact form {
+    width: 80%;
+  }
+  .navbar-custom .navbar-nav {
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav > li > a {
+    background-color: transparent;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .navbar-custom a.handphone {
+    display: none;
+  }
+  .jumbotron hr {
+    width: 75%;
+  }
+  .team .card {
+    width: 80%;
+  }
+  .wtj a.btn {
+    width: 175px;
+  }
+  .contact form {
+    width: 80%;
+  }
+  .navbar-custom .navbar-nav {
+    background-color: transparent;
+  }
+  .navbar-custom .navbar-nav > li > a {
+    background-color: transparent;
+  }
+}
