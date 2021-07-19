@@ -21,3 +21,6 @@ Design:
 
 Preview
 https://affalximam.github.io/Banjarnegara%20Xploit/
+
+
+![Screenshot](https://user-images.githubusercontent.com/62225185/126091554-1568e206-a809-4084-a35c-8b33e3f1f811.jpg)
