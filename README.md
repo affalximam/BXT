@@ -12,5 +12,9 @@ Dibuat menggunakan :
 => Animation On Scrool (https://michalsnik.github.io/aos/)
 
 
+Design:
+
+=> Pixelab (https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab)
+
 Preview
 https://affalximam.github.io/Banjarnegara%20Xploit/
