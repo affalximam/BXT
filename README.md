@@ -14,7 +14,7 @@ Dibuat menggunakan :
 
 Design:
 
-=> Pixelab (https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab)
+=> Pixellab (https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab)
 
 ![Design](https://user-images.githubusercontent.com/62225185/126090793-8ca9e13f-169c-46d3-9094-4eee3006f0b2.jpg)
 
